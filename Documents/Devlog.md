@@ -3,7 +3,7 @@
 ### Current Version
 [WC_Ambient_Debug2.maxpat](/MaxPatch/)
 
-- Made for PS3 controller (it had a start button)
+- Made for PS3 controller (it had a start button and gyro)
 - Takes in voice input (I used contact mics) 
 - Everything can be controlled by the controller, you don't have to touch your laptop 
 - Uses mainly FM8 and samples 
@@ -23,4 +23,5 @@ what is the best way to do that?
 - I want to move away from FM8 and just create my own sounds, that is more achievable now that I have explored procedural audio!
 - I have the new PS5 now (exciting!), I am wondering what more features I can add, with the touch pad
 - I want to work more with the gyroscope, currently it is on with panning tilt left and right, would love to play with filters  
+- The panning favours right side I believe, what's a better calculation to split it to the left? 
 
