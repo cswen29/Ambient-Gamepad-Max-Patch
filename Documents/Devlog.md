@@ -1,6 +1,6 @@
 # Devlog - Wen
 
-### Current Version
+### Current Version (last worked on 14 April 2024)
 [WC_Ambient_Debug2.maxpat](/MaxPatch/)
 
 - Made for PS3 controller (it had a start button and gyro)
